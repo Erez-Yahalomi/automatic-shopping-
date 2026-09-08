@@ -1,0 +1,13 @@
+Input file: 500_gr.csv
+Number of detected events: 2
+
+Event 1:
+  Weight change: -500.17 grams
+  Event time: 1.083 seconds
+  Meaning: Weight removed from the shelf
+
+Event 2:
+  Weight change: +501.19 grams
+  Event time: 1.835 seconds
+  Meaning: Weight added to or returned to the shelf
+

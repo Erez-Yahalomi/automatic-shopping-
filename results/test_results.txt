@@ -1,0 +1,18 @@
+SMART-SHELF WEIGHT DETECTOR TEST REPORT
+==========================================
+
+Tests executed: 13
+Tests passed: 13
+Tests failed: 0
+Test errors: 0
+Overall result: PASS - all checks succeeded
+
+WHAT THE TESTS CHECK
+- Supplied recordings detect the expected removal and addition.
+- Quiet data and temporary spikes do not create false events.
+- Real removals are negative and additions are positive.
+- Small changes below the configured threshold are ignored.
+- Invalid, incomplete, or incorrectly timed data is rejected.
+
+
+Conclusion: The detector passed all implemented checks.
