@@ -1,0 +1,9 @@
+product_id,product_name,category,shelf_ordinal,cell_ordinal,width_cm,facings
+P1,Energy Drink A,Beverages,1,1,8,1
+P2,Energy Drink B,Beverages,1,2,8,1
+P3,Protein Bar A,Snacks,1,3,6,1
+P4,Chips Family Pack,Snacks,1,4,16,2
+P5,Sparkling Water,Beverages,2,1,8,1
+P6,Kombucha,Beverages,2,2,8,1
+P7,Mystery Wrap,Prepared Foods,2,3,8,1
+P8,Yogurt Drink,Dairy,2,4,8,1
